@@ -12,7 +12,7 @@ Parent: [[Work]]
     - Duplicates due to joining: pre-aggregate using CTE
     - SP logic:
         - missing parameter: 5 hour clip window
-        - false postives: delete lineage and rerun, will load old 5 hour block but record as new data. fix: use the parameter
+        - false positives: delete lineage and rerun, will load old 5 hour block but record as new data. fix: use the parameter
         - wrong join sequence: left join causing data to be left out/extra data
         - business contexts: subscription but no wallet
 
