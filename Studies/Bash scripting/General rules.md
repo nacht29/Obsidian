@@ -57,3 +57,25 @@ sudo chown -R username:username /path/to/folder
 # for current user
 sudo chown -R "$USER:$USER" /path/to/folder
 ```
+
+---
+
+### Script execution
+
+Assume we have a script `hello.sh`. There are 2 ways to execute this script:
+
+```
+./hello.sh
+# or
+bash hello.sh
+```
+
+
+**Difference**:
+
+| Feature            | `./hello.sh`                                                                                           | `bash hello.sh`                                                                                                                                                           |
+| ------------------ | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Execution method   | Direct program execution using the interpreter defined in its internal hashbang (e.g., `#!/bin/bash`). | Interpreted argument execution: explicitly passes the file as an argument to the Bash interpreter, ignoring the hashbang and bypassing execution permission requirements. |
+| Permissions Needed | Requires **read** and **execute** permissions. (r-x)                                                   | Requires **read** permission only.                                                                                                                                        |
+| Interpreter Source | Read from the file's first line (the "hashbang" like `#!/bin/bash`).                                   | Forced to use the `bash` program.                                                                                                                                         |
+
