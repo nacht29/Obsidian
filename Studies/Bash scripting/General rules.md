@@ -1,14 +1,18 @@
-# General rules
 
 Parent: [[Studies/Bash scripting]]
 
 ## Important:
 
-### Header
+### Header (shebang)
 
 ```sh
 #!/usr/bin/env bash
 ```
+
+This is important when running the script as `./script.sh`, as it tells the executable programme to find Bash in the user's environment. This is a more robust approach compared to `#!/bin/bash`.
+
+When executing the script as `bash script.sh`, then the shebang doesn't really matter.
+
 ---
 
 ### Give permission to script
@@ -78,4 +82,14 @@ bash hello.sh
 | Execution method   | Direct program execution using the interpreter defined in its internal hashbang (e.g., `#!/bin/bash`). | Interpreted argument execution: explicitly passes the file as an argument to the Bash interpreter, ignoring the hashbang and bypassing execution permission requirements. |
 | Permissions Needed | Requires **read** and **execute** permissions. (r-x)                                                   | Requires **read** permission only.                                                                                                                                        |
 | Interpreter Source | Read from the file's first line (the "hashbang" like `#!/bin/bash`).                                   | Forced to use the `bash` program.                                                                                                                                         |
+
+### Read/Export results
+
+**Export logs to `stdout` and `.log` file:**
+```sh
+echo "line" | tee -a file.log
+```
+
+---
+
 

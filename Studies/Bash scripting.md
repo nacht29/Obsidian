@@ -5,4 +5,4 @@ Parent: [[Studies]]
 ## Nodes
 
 - [[Studies/Bash scripting/General rules|General rules]]
-- [[Studies/Bash scripting/Concepts|Concepts]]
+- [[Configurations and Tips|Configurations and Tips]]
