@@ -1,6 +1,4 @@
 
-Parent: [[Studies/Bash scripting]]
-
 ## Quick references
 
 ### Prod style scripts for reference

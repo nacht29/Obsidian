@@ -1,7 +1,5 @@
 # Execution Plan
 
-Parent: [[Work/Data Flows Sdn Bhd/Interview|Interview]]
-
 ## 1. Bronze layer
 
 Purpose: Store the raw imported data from the provided source files with minimal transformation.

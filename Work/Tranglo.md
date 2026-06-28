@@ -1,6 +1,8 @@
+---
+tags:
+  - layer-2
+---
 # Tranglo
-
-Parent: [[Work]]
 
 ## Nodes
 

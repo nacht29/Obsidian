@@ -1,7 +1,4 @@
 
-
-Parent: [[Work/Tranglo|Tranglo]]
-
 ## Problem
 The ETL uses `dbo.Lineage` as a watermark to decide the next load window.
 

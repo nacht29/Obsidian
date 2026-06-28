@@ -1,6 +1,7 @@
-
-
-Parent: [[Work]]
+---
+tags:
+  - layer-2
+---
 
 ## Nodes
 

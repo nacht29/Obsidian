@@ -1,7 +1,5 @@
 # Past experience summary
 
-Parent: [[Work]]
-
 ## Tranglo
 
 - Develop and refactor SP: Kimball style architecture, a snapshot, a merge and update loading script, a main script to track lineage and exceptions

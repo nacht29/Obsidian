@@ -1,6 +1,4 @@
 
-Parent: [[Studies/Bash scripting]]
-
 ## Important:
 
 ### Header (shebang)

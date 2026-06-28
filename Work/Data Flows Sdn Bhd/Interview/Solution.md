@@ -1,7 +1,5 @@
 # Solution
 
-Parent: [[Work/Data Flows Sdn Bhd/Interview|Interview]]
-
 Solution for the assessment mini project from Data Flows Sdn. Bhd.
 
 ---

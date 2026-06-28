@@ -1,7 +1,5 @@
 # Interview Questions
 
-Parent: [[Work/Data Flows Sdn Bhd/Interview|Interview]]
-
 
 ## Round 1
 1. Mostly past experience questions

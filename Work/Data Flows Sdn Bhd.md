@@ -1,6 +1,8 @@
+---
+tags:
+  - layer-2
+---
 # Data Flows Sdn Bhd
-
-Parent: [[Work]]
 
 ## Nodes
 

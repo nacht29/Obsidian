@@ -1,4 +1,3 @@
-Parent: [[Projects]]
 ## Data Sources
 
 ### 1. Wikimedia EventStreams — RecentChange
