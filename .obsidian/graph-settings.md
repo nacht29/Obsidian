@@ -1,0 +1,46 @@
+# Obsidian Graph Settings
+
+## Nodes
+
+### Roots (layer 1)
+- Studies (layer: 1, role: root)
+- Work (layer: 1, role: root)
+- Projects (layer: 1, role: root)
+
+### Hubs (layer 2)
+- Bash scripting (layer: 2, role: hub, parent: Studies)
+- Data Engineering (layer: 2, role: hub, parent: Studies)
+- Git (layer: 2, role: hub, parent: Studies)
+- Cloud Space (layer: 2, role: hub, parent: Work)
+- Data Flows Sdn Bhd (layer: 2, role: hub, parent: Work)
+- Tranglo (layer: 2, role: hub, parent: Work)
+
+### Hubs (layer 3)
+- Interview (layer: 3, role: hub, parent: Data Flows Sdn Bhd)
+
+### Leaves
+- Enterprise level pipeline architecture (role: leaf, parent: Data Engineering)
+- Precalculus (role: leaf, parent: Studies)
+- Past experience summary (role: leaf, parent: Work)
+- Wikimedia-Analytics (role: leaf, parent: Projects)
+- Python (role: leaf, parent: Projects)
+- General rules (role: leaf, parent: Git)
+- Mental model (role: leaf, parent: Git)
+- Fetch Pull Checkout (role: leaf, parent: Git)
+- Branches and Remotes (role: leaf, parent: Git)
+- Merge Conflicts (role: leaf, parent: Git)
+- Rebase (role: leaf, parent: Git)
+- Reset (role: leaf, parent: Git)
+- Rebase vs Reset (role: leaf, parent: Git)
+- Pull Requests (role: leaf, parent: Git)
+- Fork vs Clone (role: leaf, parent: Git)
+- Merge Strategies (role: leaf, parent: Git)
+- Common Workflows (role: leaf, parent: Git)
+- General rules (role: leaf, parent: Bash scripting)
+- Configurations and Tips (role: leaf, parent: Bash scripting)
+- Lineage and Window Clipping (role: leaf, parent: Tranglo)
+- Cumulative Sum (role: leaf, parent: Cloud Space)
+- Taylor's Data Model (role: leaf, parent: Cloud Space)
+- Solution (role: leaf, parent: Interview)
+- Execution Plan (role: leaf, parent: Interview)
+- Interview Questions (role: leaf, parent: Interview)
