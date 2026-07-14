@@ -10,3 +10,4 @@ tags:
 - [[Studies/Data Engineering|Data Engineering]]
 - [[Studies/Git|Git]]
 - [[Studies/Precalculus|Precalculus]]
+- [[Studies/SSH Key|SSH Key]]
