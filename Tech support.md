@@ -6,3 +6,5 @@ tags:
 
 ## Links
 - [[SentinelOne]]
+- [[Google Assistant & Gemini]]
+- 

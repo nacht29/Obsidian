@@ -1,9 +1,4 @@
 
-## Concepts
-
-### `*args` and `*kwargs`
-
-**Important:** `*args` and `**kwargs` are tied to **one function call at a time**.
-
-#### Difference between `*args` and `*kwargs`
-
+- [[Python/JSON|JSON]]
+- [[Python/lambda|lambda]]
+- [[Python/Annotation|Annotation]]
