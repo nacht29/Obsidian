@@ -6,3 +6,4 @@ tags:
 
 ## Links
 - [[Terms|Terms]]
+- [[Knowledge|Knowledge]]

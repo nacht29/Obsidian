@@ -4,6 +4,6 @@ tags:
 ---
 # Data Engineering
 
-## Nodes
+## Links
 
 - [[Studies/Data Engineering/Enterprise level pipeline architecture|Enterprise level pipeline architecture]]

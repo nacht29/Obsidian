@@ -4,7 +4,7 @@ tags:
 ---
 # Git
 
-## Nodes
+## Links
 
 - [[Studies/Git/General rules|General rules]]
 - [[Studies/Git/Mental model|Mental model]]

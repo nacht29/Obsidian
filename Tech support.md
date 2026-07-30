@@ -5,6 +5,5 @@ tags:
 # Tech support
 
 ## Links
-- [[SentinelOne]]
-- [[Google Assistant & Gemini]]
-- 
+- [[SentinelOne|SentinelOne]]
+- [[Google Assistant & Gemini|Google Assistant & Gemini]]

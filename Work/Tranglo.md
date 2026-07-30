@@ -4,6 +4,6 @@ tags:
 ---
 # Tranglo
 
-## Nodes
+## Links
 
-- [[Work/Tranglo/Lineage and Window Clipping]]
+- [[Work/Tranglo/Lineage and Window Clipping|Lineage and Window Clipping]]

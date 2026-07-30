@@ -4,7 +4,7 @@ tags:
 ---
 # Studies
 
-## Nodes
+## Links
 
 - [[Studies/Bash scripting|Bash scripting]]
 - [[Studies/Data Engineering|Data Engineering]]

@@ -4,7 +4,7 @@ tags:
 ---
 # Bash scripting
 
-## Nodes
+## Links
 
 - [[Studies/Bash scripting/General rules|General rules]]
 - [[Studies/Bash scripting/Configurations and Tips|Configurations and Tips]]

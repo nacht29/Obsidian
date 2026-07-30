@@ -15,3 +15,15 @@ Caring SSSSG definition:
 - Each action has an `ArticleCode`
 - `ArticleSettlement` is used to signify vendor/supplier rebates and is meant for trade related activities
 - Non-trade activities, such as laptop purchases do not have `SettlementArticle` but will have `ArticleCode`
+
+---
+
+## ManufacturerCode & SettlementArticle
+
+
+---
+
+### Data layers (silver)
+
+- R1 R2 not sure
+- R3 = combine Big and Caring data

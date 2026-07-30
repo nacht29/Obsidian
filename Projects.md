@@ -4,7 +4,7 @@ tags:
 ---
 # Projects
 
-## Nodes
+## Links
 
 - [[Projects/Wikimedia-Analytics|Wikimedia-Analytics]]
 - [[Projects/Python|Python]]

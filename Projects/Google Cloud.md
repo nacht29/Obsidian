@@ -4,6 +4,6 @@ tags:
 ---
 # Google Cloud
 
-## Nodes
+## Links
 
 - [[Projects/Google Cloud/Credentials|Credentials]]
