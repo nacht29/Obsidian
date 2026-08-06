@@ -44,3 +44,18 @@ WHERE destination_table.table_id = 'warehouse_receipt'
 	AND creation_time > TIMESTAMP_SUB(CURRENT_TIMESTAMP(), INTERVAL 7 DAY)
 ORDER BY creation_time DESC;
 ```
+
+---
+### Get all columns in a table:
+```sql
+SELECT 
+	column_name, 
+	data_type, 
+	is_nullable
+FROM 
+	`bcg-bigquery-silver.r3_data.INFORMATION_SCHEMA.COLUMNS`
+WHERE 
+	table_name = 'warehouse_receipt'
+ORDER BY 
+	ordinal_position;
+```

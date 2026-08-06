@@ -5,5 +5,6 @@ tags:
 # BCG
 
 ## Links
-- [[Terms|Terms]]
-- [[Knowledge|Knowledge]]
+
+- [[Terms]]
+- [[Knowledge]]

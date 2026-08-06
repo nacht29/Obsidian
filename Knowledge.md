@@ -6,5 +6,6 @@ tags:
 
 ## Links
 
-- [[SQL|SQL]]
-- [[GCP|GCP]]
+- [[SQL]]
+- [[GCP]]
+- [[Looker Studio]]

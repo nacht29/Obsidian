@@ -5,5 +5,7 @@ tags:
 # Tech support
 
 ## Links
-- [[SentinelOne|SentinelOne]]
-- [[Google Assistant & Gemini|Google Assistant & Gemini]]
+
+- [[SentinelOne]]
+- [[Google Assistant & Gemini]]
+- [[MS Office Activation]]

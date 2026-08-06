@@ -1,7 +1,3 @@
----
-tags:
-  - layer-2
----
 ## Remove SentinelOne
 
 1. Shift + Restart
