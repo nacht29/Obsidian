@@ -53,3 +53,10 @@ git reset --mixed HEAD~1
 git merge --abort
 git rebase --abort
 ```
+
+### Combine commits
+```sh
+git reset --soft HEAD~2
+git commit <message>
+git push --force-with-lease
+```

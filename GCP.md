@@ -59,3 +59,11 @@ WHERE
 ORDER BY 
 	ordinal_position;
 ```
+
+### INFORMATION_SCHEMA syntax
+
+```sql
+SELECT *
+FROM `bcg-bigquery-silver`.`region-asia-southeast1`.INFORMATION_SCHEMA.TABLE_STORAGE
+WHERE table_schema = 't3_data' AND table_name = 'tradeincomewithgl';
+```

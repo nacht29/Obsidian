@@ -6,5 +6,5 @@ tags:
 
 ## Links
 
-- [[Terms]]
+- [[Business Logic]]
 - [[Knowledge]]
