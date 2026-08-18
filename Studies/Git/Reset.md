@@ -8,11 +8,11 @@
 
 ### Reset modes
 
-| Command | Commit removed? | Changes kept? | Staged? |
-| --- | --- | --- | --- |
-| `git reset --soft HEAD~1` | Yes | Yes | Yes |
-| `git reset --mixed HEAD~1` | Yes | Yes | No |
-| `git reset --hard HEAD~1` | Yes | No | No |
+| Command                    | Commit removed? | Changes kept? | Staged? |
+| -------------------------- | --------------- | ------------- | ------- |
+| `git reset --soft HEAD~1`  | Yes             | Yes           | Yes     |
+| `git reset --mixed HEAD~1` | Yes             | Yes           | No      |
+| `git reset --hard HEAD~1`  | Yes             | No            | No      |
 
 ### Commands
 

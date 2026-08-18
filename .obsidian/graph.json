@@ -11,21 +11,28 @@
       "query": "tag:#layer-1",
       "color": {
         "a": 1,
-        "rgb": 29547
+        "rgb": 1945483
       }
     },
     {
       "query": "tag:#layer-2",
       "color": {
         "a": 1,
-        "rgb": 756652
+        "rgb": 4680673
       }
     },
     {
       "query": "tag:#layer-3",
       "color": {
         "a": 1,
-        "rgb": 2069204
+        "rgb": 1945512
+      }
+    },
+    {
+      "query": "tag:#layer-4",
+      "color": {
+        "a": 1,
+        "rgb": 4672737
       }
     }
   ],
@@ -39,6 +46,6 @@
   "repelStrength": 10.1010395010395,
   "linkStrength": 1,
   "linkDistance": 125,
-  "scale": 0.6401763338614772,
+  "scale": 1.2540579902505278,
   "close": true
 }

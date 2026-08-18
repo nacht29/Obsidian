@@ -1,3 +1,13 @@
+---
+tags:
+  - layer-4
+---
+# Business Logic
+
+## Links
+
+- [[Supply Chain Terms]]
+- [[Promotion]]
 
 ## SSSG:
 
@@ -42,3 +52,9 @@ Priority items: Caring Pharmacy exclusive items, hence prices can be set higher.
 
 Not all Trade Income articles are assigned a `ManufacturerCode`.
 
+---
+
+## ConditionContract vs Contract (`tradeincomedetails`)
+
+- `ConditionContract` = `ContractNo`
+- `Contract` = Settled Contract

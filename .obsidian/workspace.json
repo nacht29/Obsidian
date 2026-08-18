@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studies/Data Engineering/Enterprise level pipeline architecture.md",
+                "file": "Promotion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enterprise level pipeline architecture"
+              "title": "Promotion"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -182,6 +184,19 @@
   },
   "active": "25040b75cb2c6757",
   "lastOpenFiles": [
+    "Promotion.md",
+    "Business Logic.md",
+    "Projects/Python/os.md",
+    "Projects/Python",
+    "Supply Chain Terms.md",
+    "Studies/Git/Reset.md",
+    "GCP.md",
+    "Studies/Git/Common Workflows.md",
+    "Studies/Git.md",
+    "Looker Studio.md",
+    "Pasted image 20260803120549.png",
+    "MS Office Activation.md",
+    "Studies/Data Engineering/Enterprise level pipeline architecture.md",
     "Projects/Wikimedia-Analytics.md",
     "Projects/Python.md",
     "Projects.md",
@@ -200,11 +215,7 @@
     "Work/Cloud Space.md",
     "Work/Past experience summary.md",
     "Work/Cloud Space/Cumulative Sum.md",
-    "Work/Tranglo.md",
-    "Work/Cloud Space/Cloud-Space.md",
-    "Work/Clo/Lineage and Window Clipping.md",
     "Work/Clo",
-    "Work/Tranglo/Lineage and Window Clipping.md",
     "Work/Cloud Space",
     "Work/Data Flows Sdn Bhd/Interview/images/qlik-data-manager.png",
     "Work/Data Flows Sdn Bhd/Interview/images/Pasted image 20260612153310.png",
@@ -212,14 +223,6 @@
     "Pasted image 20260612153310.png",
     "Work/Tranglo/XXgwHc4h",
     "Work/Tranglo/XXPmxult",
-    "Work/Tranglo/XXdqVWNx",
-    "XXtZD4Ja",
-    "Work/Data Flows Sdn Bhd.md",
-    "Work/Tranglo/Tranglo.md",
-    "Work/Data Flows Sdn Bhd/Interview.md",
-    "Work/Interview/Data Flows/Execution Plan.md",
-    "Work/Interview/Data Flows/Solution.md",
-    "Work/Past experience.md",
-    "Work/Interview.md"
+    "Work/Tranglo/XXdqVWNx"
   ]
 }
