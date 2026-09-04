@@ -9,3 +9,4 @@ tags:
 - [[SQL]]
 - [[GCP]]
 - [[Looker Studio]]
+- [[Watermarking]]
