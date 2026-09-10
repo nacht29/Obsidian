@@ -59,3 +59,11 @@ Not all Trade Income articles are assigned a `ManufacturerCode`.
 
 - `ConditionContract` = `ContractNo`
 - `Contract` = Settled Contract
+
+---
+
+### Supplier Customer Balance
+
+- AP = Account Payable (customer account)
+- AR = Account receivable (supplier - DC, vendor etc)
+- Payment on behalf: One company (CPRM) can pay preemptively for others
