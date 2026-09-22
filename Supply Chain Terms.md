@@ -26,3 +26,22 @@
 | In-Transit Qty | —                                      | Stock shipped but not yet received at destination.                                                                                                                                                                                                                                                                                                                                                            |
 | UOM            | Unit of Measure                        | How a quantity of an item is counted (each, case, pallet, kg, etc.). Same SKU often has multiple UOMs with different physical dimensions (a case ≠ an each).<br>In T1: `item_uom` CTE, joined via `QuantityUM` — used to get `DisplayUM` and compute per-unit Length × Width × Height for `TotalM3` (line 243). Without knowing the UOM, `TotalQty` alone is meaningless for volume — 10 "each" ≠ 10 "cases." |
 | QC             | Quality Control                        | Inspection process before/during outbound shipping — checking an item isn't damaged, expired, wrong, etc. A failed/held item gets flagged with a reason.                                                                                                                                                                                                                                                      |
+
+---
+
+### Supply chain flow (related to ANP Income & Trade Income)
+
+1. Terms
+	- **PO (Purchase Order):** The official legally binding document sent by a buyer to a supplier, specifying the types, quantities, and agreed prices for products or services.
+
+	- **GR (Goods Receipt):** An internal document or system entry that confirms the physical arrival of the ordered goods at the buyer's warehouse or facility, verifying the delivered quantity against the PO.
+	
+	- **ZP (Z-Payment / Payment Journal):** A system-specific transaction or document code (frequently used in ERP software like SAP) that represents the final processing and release of the payment to the vendor.
+	
+	- **ZR (Z-Reconciliation / Return):** Depending on your specific ERP configuration, this typically refers to either the automated financial reconciliation process (matching PO, GR, and Invoice) or a standard code for a Goods Return/Debit Memo if items were damaged.
+2. Flow
+	![[Pasted image 20260922135137.png]]
+3. Hence
+	- POType = ZP: System finalised purchase
+	- POType = ZR: System finalised goods return
+

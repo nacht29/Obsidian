@@ -62,8 +62,20 @@ Not all Trade Income articles are assigned a `ManufacturerCode`.
 
 ---
 
-### Supplier Customer Balance
+### Supplier Customer Balance (AP/AR)
 
 - AP = Account Payable (customer account)
 - AR = Account receivable (supplier - DC, vendor etc)
 - Payment on behalf: One company (CPRM) can pay preemptively for others
+
+---
+
+### AP/AR F1BN
+
+- Interco: payment within BCG
+	- Or HQ will pay on behalf of supplier
+	- Paid to store, but not paid to supplier yet
+- Check
+	- Discrepancy in GL
+	- If discrepancy is due to interco payment
+

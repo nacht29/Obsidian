@@ -7,4 +7,4 @@ tags:
 ## Links
 
 - [[Business Logic]]
-- [[Knowledge]]
+- [[Technical Skills]]
