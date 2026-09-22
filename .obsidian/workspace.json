@@ -11,10 +11,14 @@
             "id": "25040b75cb2c6757",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Work/Data Flows Sdn Bhd/BCG/Business Logic/Supply Chain Terms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Supply Chain Terms"
             }
           }
         ]
@@ -72,8 +76,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,6 +184,24 @@
   },
   "active": "25040b75cb2c6757",
   "lastOpenFiles": [
+    "Studies/Data Engineering/images/Pasted image 20260629002335.png",
+    "Studies/Data Engineering/images/Pasted image 20260629002333.png",
+    "Studies/Data Engineering/images/Pasted image 20260629002046.png",
+    "Studies/Data Engineering/images/Pasted image 20260629001827.png",
+    "Studies/Data Engineering/images/Pasted image 20260629001714.png",
+    "Studies/Data Engineering/images/Pasted image 20260629001705.png",
+    "Studies/Data Engineering/images/Pasted image 20260629001700.png",
+    "Studies/Data Engineering/images/Pasted image 20260629001634.png",
+    "Studies/Data Engineering/images/Pasted image 20260629001558.png",
+    "Studies/Data Engineering/images/kafka_producers_consumers_partitions.png",
+    "Studies/Data Engineering/images/enterprise_pipeline_overview.png",
+    "session-2026-06-28-caching-auth.md",
+    "Work/Data Flows Sdn Bhd/BCG/Business Logic/Supply Chain Terms.md",
+    "Tech support/images",
+    "Work/Data Flows Sdn Bhd/BCG/Business Logic/images",
+    "Work/Data Flows Sdn Bhd/BCG/images",
+    "Work/Data Flows Sdn Bhd/Company Docs/Office & Workspace/images",
+    "Studies/Data Engineering/images",
     "Supply Chain Terms.md",
     "Work/Data Flows Sdn Bhd/BCG/Technical Skills/Watermarking.md",
     "Work/Data Flows Sdn Bhd/BCG/Technical Skills/Looker Studio.md",
@@ -188,7 +209,6 @@
     "Work/Data Flows Sdn Bhd/BCG/Technical Skills/SQL.md",
     "Work/Data Flows Sdn Bhd/BCG/Business Logic/Roles.md",
     "Work/Data Flows Sdn Bhd/BCG/Business Logic/Promotion.md",
-    "Work/Data Flows Sdn Bhd/BCG/Business Logic/Supply Chain Terms.md",
     "Work/Data Flows Sdn Bhd/BCG/Technical Skills.md",
     "Work/Data Flows Sdn Bhd/BCG/Business Logic.md",
     "Tech support/MS Office Activation.md",
@@ -199,7 +219,6 @@
     "Work/Data Flows Sdn Bhd/BCG",
     "Tech support",
     "Technical Skills.md",
-    "Pasted image 20260922135137.png",
     "Business Logic.md",
     "Work/Data Flows Sdn Bhd/BCG.md",
     "Roles.md",
@@ -209,18 +228,7 @@
     "Language/English.md",
     "Language.md",
     "Language/English",
-    "Language",
     "SQL.md",
-    "Watermarking.md",
-    "Projects/Google Cloud/Credentials.md",
-    "Looker Studio.md",
-    "Projects/Python",
-    "Pasted image 20260803120549.png",
-    "Projects",
-    "Untitled",
-    "Studies/Bash scripting",
-    "Work/Data Flows Sdn Bhd/Interview/images/qlik-data-manager.png",
-    "Work/Data Flows Sdn Bhd/Interview/images/Pasted image 20260612153310.png",
-    "Pasted image 20260612153310.png"
+    "Watermarking.md"
   ]
 }
