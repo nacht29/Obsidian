@@ -45,3 +45,19 @@
 	- POType = ZP: System finalised purchase
 	- POType = ZR: System finalised goods return
 
+---
+
+### Trade Income vs Non-trade (Purchase)
+
+Trade vs non-trade = **what the money is for**, not who records it.
+
+| | Non-trade (Purchase) | Trade Income |
+|---|---|---|
+| What it is | Money **you pay** the vendor for stock | Money **vendor pays you** per contract (rebates, listing fees, volume bonus, co-op marketing) |
+| Source table | `comb_gr_listing`, filtered `POType LIKE 'ZP%'` (purchase) / `'ZR%'` (return) | `tradeincomewithgl`, filtered `TradeIncomeIndicator = 'Yes'` |
+| Accounting role | Cost of goods (COGS/inventory) — not income | Real income → hits GL as revenue |
+| GL link in this pipeline | None — raw purchase data, no GL join here | Reconciled against GL (`withgl` in table name) |
+
+- "Non-trade" isn't a special accounting category — it's just the label used to mark "not trade income" when purchase data is shown alongside trade income for comparison.
+- "Doesn't affect GL" means *not linked to GL in this query*, not that purchases never touch GL — they likely do, through a different pipeline (COGS/inventory), just not this one.
+

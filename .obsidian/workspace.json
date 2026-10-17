@@ -8,6 +8,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "b35b70d0b999b5b8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "25040b75cb2c6757",
             "type": "leaf",
             "state": {
@@ -19,6 +29,18 @@
               },
               "icon": "lucide-file",
               "title": "Supply Chain Terms"
+            }
+          },
+          {
+            "id": "bbb0a1d7be966106",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Work/Data Flows Sdn Bhd/BCG/Business Logic/images/Pasted image 20260922135137.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260922135137"
             }
           }
         ]
@@ -55,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dev/null",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +98,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,8 +205,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "25040b75cb2c6757",
+  "active": "b35b70d0b999b5b8",
   "lastOpenFiles": [
+    "Projects/Python/os & ENV VAR.md",
+    "Studies/SSH Key.md",
+    "Work/Data Flows Sdn Bhd/BCG/Business Logic/Supply Chain Terms.md",
+    "What-If Analysis.md",
+    "Work/Data Flows Sdn Bhd/BCG/Business Logic.md",
+    "Profit Margin.md",
+    "Work/Data Flows Sdn Bhd/BCG.md",
+    "Projects/Google Cloud/Credentials.md",
+    "Work/Data Flows Sdn Bhd/BCG/Business Logic/images/Pasted image 20260922135137.png",
     "Studies/Data Engineering/images/Pasted image 20260629002335.png",
     "Studies/Data Engineering/images/Pasted image 20260629002333.png",
     "Studies/Data Engineering/images/Pasted image 20260629002046.png",
@@ -193,10 +225,7 @@
     "Studies/Data Engineering/images/Pasted image 20260629001700.png",
     "Studies/Data Engineering/images/Pasted image 20260629001634.png",
     "Studies/Data Engineering/images/Pasted image 20260629001558.png",
-    "Studies/Data Engineering/images/kafka_producers_consumers_partitions.png",
-    "Studies/Data Engineering/images/enterprise_pipeline_overview.png",
     "session-2026-06-28-caching-auth.md",
-    "Work/Data Flows Sdn Bhd/BCG/Business Logic/Supply Chain Terms.md",
     "Tech support/images",
     "Work/Data Flows Sdn Bhd/BCG/Business Logic/images",
     "Work/Data Flows Sdn Bhd/BCG/images",
@@ -210,7 +239,6 @@
     "Work/Data Flows Sdn Bhd/BCG/Business Logic/Roles.md",
     "Work/Data Flows Sdn Bhd/BCG/Business Logic/Promotion.md",
     "Work/Data Flows Sdn Bhd/BCG/Technical Skills.md",
-    "Work/Data Flows Sdn Bhd/BCG/Business Logic.md",
     "Tech support/MS Office Activation.md",
     "Tech support/Google Assistant & Gemini.md",
     "Tech support/SentinelOne.md",
@@ -220,15 +248,10 @@
     "Tech support",
     "Technical Skills.md",
     "Business Logic.md",
-    "Work/Data Flows Sdn Bhd/BCG.md",
     "Roles.md",
     "Promotion.md",
-    "Projects/Python/os & ENV VAR.md",
     "Language/English/Acronym Rules.md",
     "Language/English.md",
-    "Language.md",
-    "Language/English",
-    "SQL.md",
-    "Watermarking.md"
+    "Language/English"
   ]
 }

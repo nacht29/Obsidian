@@ -9,6 +9,8 @@ tags:
 - [[Supply Chain Terms]]
 - [[Promotion]]
 - [[Roles]]
+-  [[Profit Margin]]
+-  [[What-If Analysis]]
 
 ## SSSG:
 

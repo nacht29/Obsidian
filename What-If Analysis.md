@@ -1,0 +1,12 @@
+
+- BU head implements challenge or event
+	- Not claimable from supplier
+	- Store hits target anyway
+	- Compensate stores from own funds
+- Margin:
+	- Gross Profit: $100 - $80 = $20
+	- For every 5 sold, then compensate $5
+	- So every 5 items, then margin becomes $15
+	- If sales increase, the margin will also shrink, because more discounted items get sold
+	- Sales volume can improve while margin shrinks, meaning you are losing money as sales increases
+- What-If analysis aims to forecast performance before implementing a challenge or event
