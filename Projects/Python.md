@@ -9,4 +9,5 @@ tags:
 - [[Python/JSON|JSON]]
 - [[Python/lambda|lambda]]
 - [[Python/Annotation|Annotation]]
-- [[os & ENV VAR|os & ENV VAR]]
+- [[Python/os & ENV VAR|os & ENV VAR]]
+- [[Python/logging|logging]]

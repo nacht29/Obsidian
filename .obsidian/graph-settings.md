@@ -34,6 +34,7 @@ this custom set rather than resuming the standard skill algorithm from scratch.
 - Tranglo (layer: 2, role: hub, parent: Work)
 - Python (layer: 2, role: hub, parent: Projects)
 - Google Cloud (layer: 2, role: hub, parent: Projects)
+- Network (layer: 2, role: hub, parent: Projects)
 - English (layer: 2, role: hub, parent: Language)
 
 ### Hubs (layer 3)
@@ -56,6 +57,8 @@ this custom set rather than resuming the standard skill algorithm from scratch.
 - SSH Key (role: leaf, parent: Studies)
 - Past experience summary (role: leaf, parent: Work)
 - Wikimedia-Analytics (role: leaf, parent: Projects)
+- Tunneling Local IP with CloudFlare (role: leaf, parent: Network)
+- Find Local IP (role: leaf, parent: Network)
 - os (role: leaf, parent: Python)
 - JSON (role: leaf, parent: Python)
 - lambda (role: leaf, parent: Python)
